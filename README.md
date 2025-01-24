@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm currently working on unified system<br>I'm looking to collaborate on a world changing django project<br>I'm currently learning figma, react, next..<br>Ask me about C, python, django, dart(flutter)<br>
+I'm currently working on unified system<br>I'm looking to collaborate on a world changing django project<br>I'm currently learning figma, react, next..<br>Ask me about C, python, django, dart(flutter), mysql<br>
 
 
 ## 🌐 Socials:
