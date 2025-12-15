@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on multiple projects the most outstanding being a machine learning model to detect and diagnose ADHD<br>I'm looking to collaborate on a project to diversify and bring development to Africa<br>I'm currently learning pytorch and UI/UX design<br>Ask me about fullstack development, mobile app development, devops, graphic design and machine learning
+A passionate software engineer
 
 
 ## 🌐 Socials:
